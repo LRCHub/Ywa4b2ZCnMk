@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Summoning",
+  "base_artist": "Sleep Token",
+  "createdAt": "2026-02-24T21:52:16.284011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Bloody Hammers",
+      "has_synced": false,
+      "path": "select/01_The_Summoning_Bloody_Hammers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ascendance to the Summoning",
+      "artist": "Archspire",
+      "has_synced": true,
+      "path": "select/02_Ascendance_to_the_Summoning_Archspire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Twilight Force",
+      "has_synced": true,
+      "path": "select/03_The_Summoning_Twilight_Force.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/04_The_Summoning_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Hum",
+      "has_synced": true,
+      "path": "select/05_The_Summoning_Hum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/06_The_Summoning_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Bear McCreary feat. Raya Yarbrough",
+      "has_synced": true,
+      "path": "select/07_The_Summoning_Bear_McCreary_feat._Raya_Yarbrough.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Bear McCreary",
+      "has_synced": true,
+      "path": "select/08_The_Summoning_Bear_McCreary.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Summoning",
+      "artist": "Soulfly",
+      "has_synced": true,
+      "path": "select/09_The_Summoning_Soulfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Summoning",
+      "artist": "Sleep Token",
+      "has_synced": false,
+      "path": "select/pl_01_The_Summoning_Sleep_Token.txt"
+    }
+  ]
+}
